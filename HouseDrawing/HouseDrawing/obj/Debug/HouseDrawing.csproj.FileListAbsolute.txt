@@ -1,0 +1,10 @@
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\bin\Debug\HouseDrawing.exe.config
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\bin\Debug\HouseDrawing.exe
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\bin\Debug\HouseDrawing.pdb
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.csproj.AssemblyReference.cache
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.Form1.resources
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.Properties.Resources.resources
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.csproj.GenerateResource.cache
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.csproj.CoreCompileInputs.cache
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.exe
+C:\Users\skmpl\source\repos\HouseDrawing\HouseDrawing\obj\Debug\HouseDrawing.pdb
